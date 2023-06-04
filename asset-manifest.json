@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio2/static/css/main.f83f387f.css",
-    "main.js": "/Portfolio2/static/js/main.9d16dfb3.js",
+    "main.js": "/Portfolio2/static/js/main.9863ae49.js",
     "static/js/787.60266217.chunk.js": "/Portfolio2/static/js/787.60266217.chunk.js",
     "static/media/playlist_dowloader.jpg": "/Portfolio2/static/media/playlist_dowloader.95906d818753e7acff68.jpg",
     "static/media/Chadi_Mangle_CV_Apprentissage.pdf": "/Portfolio2/static/media/Chadi_Mangle_CV_Apprentissage.9e92409584b4bafb21ad.pdf",
@@ -10,11 +10,11 @@
     "static/media/bibliodb.png": "/Portfolio2/static/media/bibliodb.d494f2a9355d3caf210e.png",
     "index.html": "/Portfolio2/index.html",
     "main.f83f387f.css.map": "/Portfolio2/static/css/main.f83f387f.css.map",
-    "main.9d16dfb3.js.map": "/Portfolio2/static/js/main.9d16dfb3.js.map",
+    "main.9863ae49.js.map": "/Portfolio2/static/js/main.9863ae49.js.map",
     "787.60266217.chunk.js.map": "/Portfolio2/static/js/787.60266217.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f83f387f.css",
-    "static/js/main.9d16dfb3.js"
+    "static/js/main.9863ae49.js"
   ]
 }
