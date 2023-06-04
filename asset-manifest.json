@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.f83f387f.css",
-    "main.js": "/Portfolio/static/js/main.d464f76b.js",
+    "main.js": "/Portfolio/static/js/main.1e835112.js",
     "static/js/787.60266217.chunk.js": "/Portfolio/static/js/787.60266217.chunk.js",
     "static/media/playlist_dowloader.jpg": "/Portfolio/static/media/playlist_dowloader.95906d818753e7acff68.jpg",
     "static/media/Chadi_Mangle_CV_Apprentissage.pdf": "/Portfolio/static/media/Chadi_Mangle_CV_Apprentissage.9e92409584b4bafb21ad.pdf",
@@ -10,11 +10,11 @@
     "static/media/bibliodb.png": "/Portfolio/static/media/bibliodb.d494f2a9355d3caf210e.png",
     "index.html": "/Portfolio/index.html",
     "main.f83f387f.css.map": "/Portfolio/static/css/main.f83f387f.css.map",
-    "main.d464f76b.js.map": "/Portfolio/static/js/main.d464f76b.js.map",
+    "main.1e835112.js.map": "/Portfolio/static/js/main.1e835112.js.map",
     "787.60266217.chunk.js.map": "/Portfolio/static/js/787.60266217.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f83f387f.css",
-    "static/js/main.d464f76b.js"
+    "static/js/main.1e835112.js"
   ]
 }
