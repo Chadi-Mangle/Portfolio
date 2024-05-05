@@ -1,20 +1,35 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.9060ef34.css",
-    "main.js": "/Portfolio/static/js/main.736212ec.js",
+    "main.css": "/Portfolio/static/css/main.7a55f5c7.css",
+    "main.js": "/Portfolio/static/js/main.27425811.js",
     "static/js/787.60266217.chunk.js": "/Portfolio/static/js/787.60266217.chunk.js",
+    "static/media/CR_SAE_13-Chadi_Mangle_Groupe3.pdf": "/Portfolio/static/media/CR_SAE_13-Chadi_Mangle_Groupe3.f0bc6cafd58c34e146a4.pdf",
+    "static/media/Chadi_Mangle_CV_Apprentissage.pdf": "/Portfolio/static/media/Chadi_Mangle_CV_Apprentissage.eff93828a80c9b4b14a7.pdf",
     "static/media/playlist_dowloader.jpg": "/Portfolio/static/media/playlist_dowloader.95906d818753e7acff68.jpg",
-    "static/media/Chadi_Mangle_CV_Apprentissage.pdf": "/Portfolio/static/media/Chadi_Mangle_CV_Apprentissage.9e92409584b4bafb21ad.pdf",
     "static/media/backdoor.jpg": "/Portfolio/static/media/backdoor.a1843387afa32bc5e764.jpg",
+    "static/media/asterisk_logo.png": "/Portfolio/static/media/asterisk_logo.d3c6df45cb83e150e2b4.png",
+    "static/media/apache_logo.png": "/Portfolio/static/media/apache_logo.7e6c1965dd8f18813320.png",
+    "static/media/metasploit_logo.png": "/Portfolio/static/media/metasploit_logo.184ffe002599214359d3.png",
     "static/media/morpion.png": "/Portfolio/static/media/morpion.24dabd7e5381b9f632e9.png",
+    "static/media/openvpn_logo.png": "/Portfolio/static/media/openvpn_logo.74283ba4911b79fc6acf.png",
+    "static/media/MiMT.png": "/Portfolio/static/media/MiMT.4ee8a6becdfa54a7f23e.png",
+    "static/media/microprocesseur.png": "/Portfolio/static/media/microprocesseur.5c1c7b90ba9562c6ea7e.png",
+    "static/media/nmap_logo.png": "/Portfolio/static/media/nmap_logo.6125a889afe06cbe895b.png",
+    "static/media/postfix_logo.png": "/Portfolio/static/media/postfix_logo.fe96a87d9b85fceae7be.png",
     "static/media/bibliodb.png": "/Portfolio/static/media/bibliodb.d494f2a9355d3caf210e.png",
+    "static/media/sql_logo.png": "/Portfolio/static/media/sql_logo.609da4d35ad2bcf5dc9b.png",
+    "static/media/iptables_logo.png": "/Portfolio/static/media/iptables_logo.59846cde8c74795dac07.png",
+    "static/media/service_reseau.png": "/Portfolio/static/media/service_reseau.fd82787d68cd524426a9.png",
+    "static/media/securite_reseau.png": "/Portfolio/static/media/securite_reseau.1dd37a06f84b32a56852.png",
+    "static/media/python_logo.png": "/Portfolio/static/media/python_logo.f7f12e1bf59e577656a2.png",
+    "static/media/javascript_logo.png": "/Portfolio/static/media/javascript_logo.93ec07e33231ed6b3af0.png",
     "index.html": "/Portfolio/index.html",
-    "main.9060ef34.css.map": "/Portfolio/static/css/main.9060ef34.css.map",
-    "main.736212ec.js.map": "/Portfolio/static/js/main.736212ec.js.map",
+    "main.7a55f5c7.css.map": "/Portfolio/static/css/main.7a55f5c7.css.map",
+    "main.27425811.js.map": "/Portfolio/static/js/main.27425811.js.map",
     "787.60266217.chunk.js.map": "/Portfolio/static/js/787.60266217.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9060ef34.css",
-    "static/js/main.736212ec.js"
+    "static/css/main.7a55f5c7.css",
+    "static/js/main.27425811.js"
   ]
 }
